@@ -1,0 +1,10 @@
+D:\Users\laura\Documents\Compasso UOL\Alura\Avaliacao - Sprint 3\Avaliacao 1 certa\CardapioDigital\CardapioDigital\bin\Debug\CardapioDigital.exe.config
+D:\Users\laura\Documents\Compasso UOL\Alura\Avaliacao - Sprint 3\Avaliacao 1 certa\CardapioDigital\CardapioDigital\bin\Debug\CardapioDigital.exe
+D:\Users\laura\Documents\Compasso UOL\Alura\Avaliacao - Sprint 3\Avaliacao 1 certa\CardapioDigital\CardapioDigital\bin\Debug\CardapioDigital.pdb
+D:\Users\laura\Documents\Compasso UOL\Alura\Avaliacao - Sprint 3\Avaliacao 1 certa\CardapioDigital\CardapioDigital\bin\Debug\Newtonsoft.Json.dll
+D:\Users\laura\Documents\Compasso UOL\Alura\Avaliacao - Sprint 3\Avaliacao 1 certa\CardapioDigital\CardapioDigital\bin\Debug\Newtonsoft.Json.xml
+D:\Users\laura\Documents\Compasso UOL\Alura\Avaliacao - Sprint 3\Avaliacao 1 certa\CardapioDigital\CardapioDigital\obj\Debug\CardapioDigital.csproj.AssemblyReference.cache
+D:\Users\laura\Documents\Compasso UOL\Alura\Avaliacao - Sprint 3\Avaliacao 1 certa\CardapioDigital\CardapioDigital\obj\Debug\CardapioDigital.csproj.CoreCompileInputs.cache
+D:\Users\laura\Documents\Compasso UOL\Alura\Avaliacao - Sprint 3\Avaliacao 1 certa\CardapioDigital\CardapioDigital\obj\Debug\CardapioDigital.csproj.CopyComplete
+D:\Users\laura\Documents\Compasso UOL\Alura\Avaliacao - Sprint 3\Avaliacao 1 certa\CardapioDigital\CardapioDigital\obj\Debug\CardapioDigital.exe
+D:\Users\laura\Documents\Compasso UOL\Alura\Avaliacao - Sprint 3\Avaliacao 1 certa\CardapioDigital\CardapioDigital\obj\Debug\CardapioDigital.pdb

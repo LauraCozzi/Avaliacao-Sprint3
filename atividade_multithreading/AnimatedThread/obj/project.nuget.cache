@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "a+1SfEYiUousLv6SVDZdZhTbdYc6BqYkMC6hGwNg6lD6aQqFCpHefEa+S/z5hnPx3Ix2I5DKPnsmMekOr7yV4Q==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\laura\\Documents\\Compasso UOL\\Alura\\Avaliacao - Sprint 3\\Avaliacao 2\\programa-de-bolsas-compasso-main\\atividade_multithreading\\AnimatedThread\\AnimatedThread.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\laura\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
